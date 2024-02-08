@@ -1,2 +1,1 @@
-# skyrmion_simulation
-Skyrmion szimuláció és vizualizáció a Spirit package-el
+# Skyrmionok szimulációja és vizualizációja a SPIRIT package használatával
