@@ -1,1 +1,1 @@
-# Skyrmionok szimulációja és vizualizációja a SPIRIT package használatával
+## Skyrmionok szimulációja és vizualizációja a SPIRIT package használatával
